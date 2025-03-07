@@ -1,57 +1,12 @@
-# marketplace-dashboard
+# SillinBasket
 
-This template should help get you started developing with Vue 3 in Vite.
+SkillinBasket
+SkillinBasket is an innovative marketplace application designed to empower individuals by allowing them to sell their unique skills and talents. Whether you're a graphic designer, a coding expert, a language tutor, or a culinary artist, SkillinBasket provides a platform to showcase and monetize your expertise.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
-```
-
-This runs the end-to-end tests against the Vite development server.
-It is much faster than the production build.
-
-But it's still recommended to test the production build with `test:e2e` before deploying (e.g. in CI environments):
-
-```sh
-npm run build
-npm run test:e2e
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Features
+User Profiles: Create and customize your profile to highlight your skills and experiences.
+Skill Listings: Easily list your skills with detailed descriptions, pricing, and availability.
+Search and Discovery: Find skilled professionals or services through advanced search and filtering options.
+Secure Transactions: Facilitate secure payments and transactions between buyers and sellers.
+Reviews and Ratings: Build trust with a robust review and rating system for both buyers and sellers.
+Messaging System: Communicate directly with potential clients or service providers through an integrated messaging system.
